@@ -19,4 +19,4 @@
 - GitHub Actions
 - Google App Script
 
-![Top Langs](https://github-readme-stats-lyart-seven-51.vercel.app/api/top-langs/?username=D-Wtnbe&count_private=true)
+![Top Langs](https://github-readme-stats-git-main-dwtnbes-projects.vercel.app/api/?username=D-Wtnbe&count_private=true)
