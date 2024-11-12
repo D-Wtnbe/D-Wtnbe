@@ -11,7 +11,6 @@
 ## Framework
 - Next.js
 - React
-- Vue
 - Terraform
 
 ## Others
